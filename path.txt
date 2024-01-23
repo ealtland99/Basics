@@ -1,0 +1,34 @@
+/c/Users/techstaff
+AppData/
+Application Data@
+Contacts/
+Cookies@
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local Settings@
+Music/
+My Documents@
+NTUSER.DAT
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+NetHood@
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Saved Games/
+Searches/
+SendTo@
+Start Menu@
+Templates@
+Videos/
+Zotero/
+eclipse/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+path.txt
